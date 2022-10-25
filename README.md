@@ -1,0 +1,2 @@
+# Shopping-App
+This is an Shopping application made using React Native and so it's cross platform. UI is inspired from https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0tiUE5UQ2k4MDhzYWN6cXY1b1pQUS1KakpsQXxBQ3Jtc0tsRnoyYzUwUTJXQmlrRzJ0UWVkUDd2QUNqMzN1czd0N09aSS1WdldTYkFsazVLMGZJRlNwQmxTU0VlRmdRWWZ4QmpMTm9LVkg3MDdqdXhaS2RpLWxIeXMyUFJVOGU2UDlGM0JSZGk3Q05hMEsxMUw1SQ&q=https%3A%2F%2Fdribbble.com%2Fshots%2F14821385-Shopping-App&v=Om3f-tT8Kfs
